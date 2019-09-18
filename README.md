@@ -1,2 +1,1 @@
-# ML-Study-Kaggle
-Study of Kaggle and Machine Learning
+# SNU CSE18 Machine Learning and Kaggle Study 
