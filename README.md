@@ -1,1 +1,4 @@
-# SNU CSE18 Machine Learning and Kaggle Study 
+# 대신러닝 스터디
+
+- `kaggle`폴더: '대회명'/'아이디'/파일들로 구성하면 좋을듯?
+= `ppt`폴더: 발표할 때 사용한 ppt 업로드하는 걸로
